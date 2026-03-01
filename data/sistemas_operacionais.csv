@@ -1,0 +1,11 @@
+numero,pergunta,resposta
+1,O que é um processo?,Um programa em execução com seu contexto (memória, registradores, recursos).
+2,O que é uma thread?,Uma linha de execução dentro de um processo que compartilha memória e recursos do processo.
+3,O que é escalonamento de CPU?,A política/mecanismo que decide qual processo ou thread executa na CPU e por quanto tempo.
+4,O que é uma syscall?,Uma chamada ao kernel para solicitar serviços privilegiados (ex.: IO, processos, memória).
+5,Diferença entre modo usuário e modo kernel?,Modo usuário tem privilégios limitados; modo kernel tem acesso total ao hardware/recursos.
+6,O que é preempção?,Interrupção do processo atual pelo escalonador para dar CPU a outro (ex.: por time slice).
+7,O que é deadlock?,Situação em que processos ficam bloqueados esperando recursos uns dos outros, sem progresso.
+8,O que é paginação?,Técnica de memória virtual que divide memória em páginas e permite mapear páginas entre RAM e disco.
+9,O que é semáforo?,Um mecanismo de sincronização para controlar acesso concorrente a recursos compartilhados.
+10,O que é condição de corrida?,Quando o resultado depende da ordem de execução entre threads/processos concorrentes.
