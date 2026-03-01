@@ -69,7 +69,7 @@ numero,pergunta,resposta
 ### 1) Clonar e entrar na pasta
 
 ```bash
-git clone <SEU_REPO.git>
+git clone https://github.com/Gengo250/flashcards-desktop
 cd flashcards-desktop
 ```
 
